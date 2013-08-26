@@ -1,0 +1,30 @@
+﻿.instructions
+{
+    font-weight: bold;
+}
+
+.numeric-spiral
+{
+    font: calibri;
+    border: 2px solid;
+    margin-top: 20px;
+}
+
+.numeric-spiral .error
+{
+    font-style: italic;
+    color: Red;
+    padding: 5px 5px 5px 5px;
+}
+
+.numeric-spiral .result
+{
+    text-align: right;
+}
+
+.result TD
+{
+    padding: 5px 5px 5px 5px;
+    width: 10px;
+    height: 10px;
+}
